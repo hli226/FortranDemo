@@ -1,12 +1,12 @@
 Package: FortranDemo
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Calculating the sqaure and cubic values
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Zhang San
+Maintainer: Zhang San <zhang.san@somewhere.net>
+Description: This package implements a function for calculating the squared and cubic value of
+    an integer value or a vector of integer values.
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1

@@ -4,9 +4,9 @@
 \name{FortranDemo-package}
 \alias{FortranDemo}
 \alias{FortranDemo-package}
-\title{FortranDemo: What the Package Does (Title Case)}
+\title{FortranDemo: Calculating the sqaure and cubic values}
 \description{
-More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+This package implements a function for calculating the squared and cubic value of
+    an integer value or a vector of integer values.
 }
 \keyword{internal}
